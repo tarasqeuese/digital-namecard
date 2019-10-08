@@ -7,7 +7,7 @@ ORG:Urbasek&Partners;
 TITLE:Executive Director
 EMAIL;type=INTERNET;type=WORK;type=pref:pstruckel@urbasek.partners
 TEL;type=WORK;type=VOICE:+420 606 079 504
-item1.ADR;type=WORK;type=pref:;;Národni 41\n130 00\, Prague 1 \nCzech Republic
+item1.ADR;type=WORK;type=pref:;;Narodni 41\n130 00\, Prague 1 \nCzech Republic
 item1.X-ABADR:sg
 item2.URL;type=pref:www.urbasek.partners
 item2.X-ABLabel:_$!<HomePage>!$_
